@@ -1,0 +1,123 @@
+/* section#1 styles */
+.container {
+    width:1170px;
+    margin:0 auto;
+}
+.block {
+    width:370px;
+    height: 374px;
+    display: flex;
+    background-color: orange;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.row1 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.blue-box {
+    width:88px;
+    height: 88px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    width: 250px;
+    text-align: center;
+}
+.size {
+    margin-top:25px;
+}
+.margin {
+    margin-bottom: 25px;
+}
+.text-block {
+    width: 770px;
+    margin:0 auto;
+    text-align: center;
+    margin-bottom: 64px;
+}
+
+/* section#2 */
+.image {
+    width:800px;
+    height: 800px;
+    object-fit: contain;
+}
+.image {
+    width: 70px;
+}
+.axlo {
+    font-family: 'Lato';
+}
+.ul1 {
+    display: flex;
+    width: 700px;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: auto;
+    font-family: 'Lato';
+}
+.guyimage {
+    width: 400px;
+    display: flex;
+    margin: 0 auto;
+}
+.block2 {
+    width:370px;
+    height: 374px;
+    display: flex;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block3 {
+    width:370px;
+    height: 374px;
+    display: flex;
+    background-color: violet;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block4 {
+    width:370px;
+    height: 374px;
+    display: flex;
+    background-color:purple;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block33 {
+    width:370px;
+    height: 374px;
+    display: flex;
+    background-color: brown;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block11 {
+    width:370px;
+    height: 374px;
+    display: flex;
+    background-color: pink;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block22 {
+    width:370px;
+    height: 374px;
+    display: flex;
+    background-color: green;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
